@@ -1,4 +1,5 @@
-👋 Hello! I'm Tarun Kaushik, a passionate beginner in the vast world of computer science. Currently on an exciting journey of exploration and learning.
+# Hello! I'm Tarun Kaushik
+- A passionate beginner in the vast world of computer science. Currently on an exciting journey of exploration and learning.
 
 🌱 Learning and Growing:
 - 🖥️ Exploring the wonders of programming languages like Python and C++.
