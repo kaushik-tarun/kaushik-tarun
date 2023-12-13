@@ -12,7 +12,7 @@
 
 🤝 Let's Connect:
 - 📫 Feel free to reach out for collaboration, advice, or just a tech chat!
-- 💻 My Portfolio [🔗](tarunkaushik.bio.link)
+- 💻 [My Portfolio 🔗](https://tarunkaushik.bio.link/)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/tarun-kaushik1/)
   
 Excited to connect with fellow coders, share experiences, and grow together in this amazing journey! 💻✨
