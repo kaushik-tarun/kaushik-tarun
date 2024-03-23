@@ -19,6 +19,8 @@ Excited to connect with fellow coders, share experiences, and grow together in t
 ## 🌐 Socials:
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077b5.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-kaushik1/) 
+ [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/tarunkauxhik) 
+[![kaggle](https://img.shields.io/badge/kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/tarunkaushik7) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://www.discordapp.com/users/1091634544098156564)
 
 ## 👨🏻‍💻 Tech Stack:
