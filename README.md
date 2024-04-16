@@ -239,7 +239,4 @@ while(alive) {
 
 <hr />
 
-<div align="center">
-    ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming)
-</div>
-
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming)
