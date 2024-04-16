@@ -170,8 +170,9 @@
 
 ---
 <div align="center">
-    #### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
-    ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
+    
+#### 🅓🅔🅢🅘🅖🅝/🅥🅘🅢🅤🅐🅛 🅣🅞🅞🅛🅢
+![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
     <!-- ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer) -->
     ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
     ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
@@ -193,9 +194,9 @@
     ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
     ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
 
-    #### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
+#### 🅓🅐🅣🅐 🅑🅐🅢🅔 / 🅢🅣🅐🅣🅔
     <!-- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase) -->
-    ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
     <!-- ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx) -->
     
 </div>
@@ -228,6 +229,7 @@ if (isCodeWorking) {
 while (codeQuality
 < perfection) { codeQuality++; // Increment code quality } } while(alive) { eat(); sleep(); code(); } // - Tarun Kaushik
     ``` <hr />
+
 <div align="center">
     ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&quoteCategory=programming)
 </div>
